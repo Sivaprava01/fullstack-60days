@@ -19,9 +19,15 @@ Built as **Day 01** of my **60-day frontend challenge**.
 
 ## 📸 Demo
 
-https://github.com/Sivaprava01/fullstack-60days/blob/main/week-01/day-01/frontend/demo.mp4
+## 📸 Demo
+
+<video src="https://raw.githubusercontent.com/Sivaprava01/fullstack-60days/main/week-01/day-01/frontend/demo.mp4"
+       controls
+       width="700">
+</video>
 
 > ⏳ Short screen recording showing task creation, focus timer, and completion animation.
+
 
 ---
 
